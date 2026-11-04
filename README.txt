@@ -1,1 +1,1 @@
-SPEEDWAY PWA - Upload all files (not the ZIP) to the root of your GitHub Pages repository. Edit links.json to change Admin and Customer destinations. Customer key replaces the previous user key. No need to reinstall the PWA.
+SPEEDWAY Luxury PWA. Upload all files to GitHub repository root. Edit links.json to update Admin and Customer links. No reinstall needed. Phone number is display only.
