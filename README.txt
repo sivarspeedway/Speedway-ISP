@@ -1,1 +1,1 @@
-SPEEDWAY Luxury PWA. Upload all files to GitHub repository root. Edit links.json to update Admin and Customer links. No reinstall needed. Phone number is display only.
+SPEEDWAY iframe TEST ONLY. Deploy to a separate GitHub Pages repository or test subdomain. Do not replace production files. iframe may be blocked by server CSP/X-Frame-Options or browser cookies.
